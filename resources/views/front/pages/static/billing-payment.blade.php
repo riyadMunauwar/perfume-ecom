@@ -43,39 +43,6 @@
         <div class="page-content">
             <div class="container">
                 <h1 class="title text-center mb-3">Billing and Payment</h1>
-                <p>We are using aamarPay payment gateway to receive online payments from our honorable
-    customers. It’s a secure and convenient way to manage your account and your time.
-
-                <p class="mt-3">The detail billing and payment options are described here.</p>
-
-                <h6 class="mt-4">Billing</h6>
-                <p>After your order has been confirmed a system generated bill will be sent to your email address
-or customers will receive a text message to mobile. You will also find a printed copy of your
-invoice while receiving the product from our delivery person. Please note, your billing amount
-will be shown in Bangladeshi Taka on the payment gateway.</p>
-
-
-                <h6 class="mt-4">Payment options</h6>
-                <p>Rayat products are available for payments by Visa, MasterCard, American Express (debit, credit
-and gift cards), Mobile Banking (bKash, Rocket etc) and cash-on-delivery.</p>
-
-                <h6 class="mt-4">Credit Card Payments</h6>
-                <p>The total billed amount for your order will be charged to your credit card after your card has
-been approved [An OTP (one time password) will be sent to your mobile number that is
-attached to your card &amp; after input the password, payment will be completed.]
-Your order will automatically cancelled if charged amount exceeds the credit limit on your card.</p>
-
-
-                <h6 class="mt-4">Debit Card Payments</h6>
-                <p>Total billed amount of your order will be charged to your debit card after your card has been
-approved. A receipt is generated for each order.</p>
-
-
-                <h6 class="mt-4">Cash On Delivery</h6>
-                <p>You can avail cash on delivery facilities. Since we provide cash on delivery for perishable goods
-and it is applicable only for Dhaka &amp; Bogura City. We also provide cash on delivery for
-nonperishable goods in whole country.</p>
-
 
 
             </div>

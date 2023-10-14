@@ -43,21 +43,7 @@
         <div class="page-content">
             <div class="container">
 
-                <h6 class="text-center mb-3">We currently ship to all areas within Bangladesh, Australia, Germany, Singapore, Malaysia,
-United Arab Emirates, United Kingdom and the United States of America. Please note that we
-currently do not have any outlets/stores outside of Bangladesh.</h6>
                 
-                <h6 class="mt-4">Local Order</h6>
-                <p>Usually, it takes about 4-5 working days for the order to be delivered. However, during
-our Sale Period, the shipping may take 7-10 working days. Delivery Charge 80 Taka inside
-Dhaka 120 taka outside Dhaka. However, delays in transit are possible due to uncontrollable
-conditions or circumstances.</p>
-
-                <h6 class="mt-4">Foreign Order</h6>
-                <p>Shipping cost will vary based on location &amp; Weight. Before order please contact us-
-IP Phone- +8809644776611, +889649776611
-Mobile- +8801920776611(WhatsApp &amp; Imo)
-Email- customercare@rayat.com.bd</p>
             </div>
         </div>
 

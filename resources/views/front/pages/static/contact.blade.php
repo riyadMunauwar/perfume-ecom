@@ -49,7 +49,7 @@
                     <div class="row">
                         <div class="col-sm-7">
                             <div class="contact-info">
-                                <h3>Rayat Boutique &amp; Craft Limited</h3>
+                                <!-- <h3>Rayat Boutique &amp; Craft Limited</h3>
 
                                 <ul class="contact-list">
                                     <li>
@@ -67,7 +67,7 @@
                                     <li>
                                         <i class="icon-envelope"></i>
                                         <a href=""><span class="__cf_email__" data-cfemail="4e272028210e032122222f602d2123">customercare@rayat.com.bd</span></a>
-                                    </li>
+                                    </li> -->
                                 </ul><!-- End .contact-list -->
                             </div><!-- End .contact-info -->
                         </div><!-- End .col-sm-7 -->
