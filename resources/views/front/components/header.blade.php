@@ -63,7 +63,7 @@
                 </button>
 
                 <a href="/" class="logo">
-                    <img src="https://worldofperfumes.com/wp-content/uploads/2019/10/lg-wop@2x.png" alt="World Perfume" width="105" height="25">
+                    <img src="https://worldofperfumes.com/wp-content/uploads/2019/10/lg-wop@2x.png" alt="World Perfume" width="50" height="50">
                 </a>
 
                 <nav class="main-nav">
