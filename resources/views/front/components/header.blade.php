@@ -63,7 +63,7 @@
                 </button>
 
                 <a href="/" class="logo">
-                    <img src="{{ asset('assets/logos/rayat-logo.png') }}" alt="Rayatboutique Logo" width="105" height="25">
+                    <img src="https://worldofperfumes.com/wp-content/uploads/2019/10/lg-wop@2x.png" alt="World Perfume" width="105" height="25">
                 </a>
 
                 <nav class="main-nav">
