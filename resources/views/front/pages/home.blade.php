@@ -1,5 +1,7 @@
 <x-front.master-layout title="Home">
 
+    @include('front.partials.full-width-intro-caurosel')
+
     @include('front.partials.category-collection')
     <livewire:front.browse-categories />
     <livewire:front.trendy-products-with-caurosel />
