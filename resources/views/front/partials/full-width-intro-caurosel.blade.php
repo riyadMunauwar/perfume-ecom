@@ -13,35 +13,7 @@
             }
         }'>
 
-        <div class="intro-slide" style="background-image: url('{{ asset('assets/images/caurosels/saree-collection.webp') }}');">
-            <!-- <div class="container intro-content">
-                <h3 class="intro-subtitle text-primary">all at 50% off</h3>
-                <h1 class="intro-title text-white">The Most Beautiful <br>Novelties In Our Shop</h1>
-
-                <a href="category.html" class="btn btn-outline-primary-2 min-width-sm">
-                    <span>SHOP NOW</span>
-                    <i class="icon-long-arrow-right"></i>
-                </a>
-            </div> -->
-        </div>
-
-        <div class="intro-slide" style="background-image: url('{{ asset('assets/images/caurosels/selowar.webp') }}');">
-            
-            <!-- <div class="container intro-content">
-
-                <h3 class="intro-subtitle text-primary">SEASONAL PICKS</h3>
-                <h1 class="intro-title">Get All <br>The Good Stuff</h1>
-
-                <a href="category.html" class="btn btn-outline-primary-2">
-                    <span>DISCOVER MORE</span>
-                    <i class="icon-long-arrow-right"></i>
-                </a>
-
-            </div> -->
-
-        </div><!-- End .intro-slide -->
-
-        <div class="intro-slide" style="background-image: url('{{ asset('assets/images/caurosels/home-decor.webp') }}');">
+        <div class="intro-slide" style="background-image: url('{{ asset('assets/images/caurosels/world-perfume-banner.webp') }}');">
             <!-- <div class="container intro-content">
                 <h3 class="intro-subtitle text-primary">all at 50% off</h3>
                 <h1 class="intro-title text-white">The Most Beautiful <br>Novelties In Our Shop</h1>
